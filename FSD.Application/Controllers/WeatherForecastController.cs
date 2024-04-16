@@ -1,6 +1,7 @@
+using FSD.Infrastructure.Context.Entities;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FDS.Application.Controllers
+namespace FSD.Application.Controllers
 {
     [ApiController]
     [Route("[controller]")]

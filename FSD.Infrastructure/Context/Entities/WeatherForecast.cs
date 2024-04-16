@@ -1,4 +1,4 @@
-namespace FDS.Application
+namespace FSD.Infrastructure.Context.Entities
 {
     public class WeatherForecast
     {

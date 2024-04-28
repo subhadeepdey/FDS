@@ -1,5 +1,5 @@
-﻿using FSD.Infrastructure.Context.Entities;
-using FSD.Infrastructure.Context;
+﻿using FSD.Infrastructure.Context;
+using FSD.Infrastructure.Context.Entities;
 using FSD.Infrastructure.Interfaces;
 
 namespace FSD.Infrastructure.Repositories

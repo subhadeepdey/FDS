@@ -1,6 +1,5 @@
-﻿using System.Reflection;
+﻿using FSD.Infrastructure.Context.Entities;
 using Microsoft.EntityFrameworkCore;
-using FSD.Infrastructure.Context.Entities;
 
 namespace FSD.Infrastructure.Context
 {

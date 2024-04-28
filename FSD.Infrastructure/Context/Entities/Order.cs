@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
-using FSD.Infrastructure.Context.Entities;
 
 namespace FSD.Infrastructure.Context.Entities
 {

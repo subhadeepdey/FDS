@@ -1,7 +1,5 @@
-﻿using FSD.Domain.Dtos;
-using FSD.Infrastructure.Context.Entities;
+﻿using FSD.Infrastructure.Context.Entities;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
 using System.IdentityModel.Tokens.Jwt;
 
 namespace FSD.Domain.Interfaces

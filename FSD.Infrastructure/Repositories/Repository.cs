@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using FSD.Infrastructure.Context;
 using FSD.Infrastructure.Context.Entities;
-using FSD.Infrastructure.Context;
 using FSD.Infrastructure.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace FSD.Infrastructure.Repositories
 {

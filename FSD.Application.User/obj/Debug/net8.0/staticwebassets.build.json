@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bSMUnjWYxWqxLQZHRlLKhnkhw3+MOtrYMLbOvpO21Bo=",
+  "Source": "FSD.Application.User",
+  "BasePath": "_content/FSD.Application.User",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,12 +1,6 @@
-﻿using AutoMapper;
-using FSD.Domain;
-using FSD.Domain.Dtos;
-using FSD.Domain.Interfaces;
+﻿using FSD.Domain.Interfaces;
 using FSD.Infrastructure.Context.Entities;
-using FSD.Infrastructure.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -83,7 +77,7 @@ namespace FSD.Domain.Services
         {
             var userExists = await userManager.FindByNameAsync(model.Username);
             if (userExists != null)
-                throw new Exception("User already exists!" );
+                throw new Exception("User already exists!");
 
             ApplicationUser user = new ApplicationUser()
             {
@@ -93,7 +87,7 @@ namespace FSD.Domain.Services
             };
             var result = await userManager.CreateAsync(user, model.Password);
             if (!result.Succeeded)
-                throw new Exception("User creation failed! Please check user details and try again." );
+                throw new Exception("User creation failed! Please check user details and try again.");
 
             if (!await roleManager.RoleExistsAsync(UserRoles.Admin))
                 await roleManager.CreateAsync(new IdentityRole(UserRoles.Admin));

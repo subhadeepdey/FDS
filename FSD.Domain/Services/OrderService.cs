@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using FSD.Domain;
 using FSD.Domain.Dtos;
 using FSD.Domain.Interfaces;
 using FSD.Infrastructure.Context.Entities;
@@ -54,7 +53,7 @@ namespace FSD.Domain.Services
 
             if (Order is null)
                 return false;
-            
+
             var result = await _OrderRepository.DeleteAsync(Order);
 
             return result;

@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace FSD.Domain.Dtos
 {
     public class OrderDto
-	{
+    {
         public int Id { get; set; }
 
         [Required(ErrorMessage = "The Name is Required")]

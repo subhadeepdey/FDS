@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y0TSKf5MVHSsHGMPwq4CjIzfPfT7i90DTl+fy5lHPyk=",
+  "Source": "FSD.Application.Admin",
+  "BasePath": "_content/FSD.Application.Admin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Code\FSD\FSD.Infrastructure\bin\Debug\net8.0\FSD.Infrastructure.deps.json
+C:\Code\FSD\FSD.Infrastructure\bin\Debug\net8.0\FSD.Infrastructure.runtimeconfig.json
+C:\Code\FSD\FSD.Infrastructure\bin\Debug\net8.0\FSD.Infrastructure.dll
+C:\Code\FSD\FSD.Infrastructure\bin\Debug\net8.0\FSD.Infrastructure.pdb
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.csproj.AssemblyReference.cache
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.AssemblyInfoInputs.cache
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.AssemblyInfo.cs
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.sourcelink.json
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.dll
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\refint\FSD.Infrastructure.dll
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.pdb
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\FSD.Infrastructure.genruntimeconfig.cache
+C:\Code\FSD\FSD.Infrastructure\obj\Debug\net8.0\ref\FSD.Infrastructure.dll

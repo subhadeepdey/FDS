@@ -1,0 +1,16 @@
+C:\Code\FSD\FSD.Domain\bin\Debug\net8.0\FSD.Domain.deps.json
+C:\Code\FSD\FSD.Domain\bin\Debug\net8.0\FSD.Domain.dll
+C:\Code\FSD\FSD.Domain\bin\Debug\net8.0\FSD.Domain.pdb
+C:\Code\FSD\FSD.Domain\bin\Debug\net8.0\FSD.Infrastructure.dll
+C:\Code\FSD\FSD.Domain\bin\Debug\net8.0\FSD.Infrastructure.pdb
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.csproj.AssemblyReference.cache
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.AssemblyInfoInputs.cache
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.AssemblyInfo.cs
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.csproj.CoreCompileInputs.cache
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.sourcelink.json
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.csproj.Up2Date
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.dll
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\refint\FSD.Domain.dll
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\FSD.Domain.pdb
+C:\Code\FSD\FSD.Domain\obj\Debug\net8.0\ref\FSD.Domain.dll

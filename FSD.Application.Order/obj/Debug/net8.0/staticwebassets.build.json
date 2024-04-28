@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lpf/q3GkTlLg0wJMnURwLpcqVgXxnE4G++hyfvQd/P0=",
+  "Source": "FSD.Application.Order",
+  "BasePath": "_content/FSD.Application.Order",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

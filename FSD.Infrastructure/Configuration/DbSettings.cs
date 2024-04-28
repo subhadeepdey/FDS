@@ -2,7 +2,7 @@
 {
     public class DbSettings
     {
-        public string   FSDDBConnString { get; set; }
+        public string FSDDBConnString { get; set; }
     }
 
 }

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace FSD.Application.User.Controllers
+namespace FSD.Application.Report.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FSD.Appp.User.props" />
+</Project>

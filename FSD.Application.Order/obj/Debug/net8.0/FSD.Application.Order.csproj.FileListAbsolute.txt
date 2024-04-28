@@ -1,10 +1,17 @@
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\appsettings.Development.json
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\appsettings.json
+C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\aws-lambda-tools-defaults.json
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\FSD.Application.Order.exe
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\FSD.Application.Order.deps.json
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\FSD.Application.Order.runtimeconfig.json
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\FSD.Application.Order.dll
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\FSD.Application.Order.pdb
+C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\Amazon.Lambda.APIGatewayEvents.dll
+C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\Amazon.Lambda.AspNetCoreServer.dll
+C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\AutoMapper.dll
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Code\FSD\FSD.Application.Order\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll

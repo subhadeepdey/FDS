@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FSD.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4239610bb4bd6317eae5fcad8742d0402cd4c9c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7de7825fc97b0e01fcfd994b44421abfca4d459")]
 [assembly: System.Reflection.AssemblyProductAttribute("FSD.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FSD.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
